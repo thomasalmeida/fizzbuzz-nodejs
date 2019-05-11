@@ -1,0 +1,8 @@
+{
+  "name": "fizzbuzz-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thomasalmeida/fizzbuzz-nodejs",
+  "author": "Thomas Almeida <thomas.fa@gmail.com>",
+  "license": "MIT"
+}
